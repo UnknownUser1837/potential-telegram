@@ -1,0 +1,46 @@
+00:00:00.272214 VirtualBox GUI (separate) 6.1.28 r147628 win.amd64 (Oct 18 2021 18:49:03) release log
+00:00:00.272220 Log opened 2021-10-29T15:20:33.795324400Z
+00:00:00.272221 Build Type: release
+00:00:00.272228 OS Product: Windows 10
+00:00:00.272232 OS Release: 10.0.18362
+00:00:00.272233 OS Service Pack: 
+00:00:00.484668 DMI Product Name: Inspiron 3531
+00:00:00.496039 DMI Product Version: A03
+00:00:00.496068 Firmware type: BIOS
+00:00:00.496088 Host RAM: 3982MB (3.8GB) total, 1581MB available
+00:00:00.496101 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+00:00:00.496103 Process ID: 6632
+00:00:00.496104 Package type: WINDOWS_64BITS_GENERIC
+00:00:15.244352 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:15.250294 GUI: UIMultiScreenLayout::update: GUI/AutomountGuestScreens is disabled
+00:00:15.278151 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+00:00:15.358067 GUI: UIMachineViewFullscreen::adjustGuestScreenSize: Adjust guest-screen size if necessary.
+00:00:15.844645 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:15.845000 GUI: UIFrameBufferPrivate::performResize: Size=720x400, Using fallback buffer since no source bitmap is provided
+00:00:15.869731 GUI: Show mini-toolbar for window #0
+00:00:15.877980 GUI: Adjust mini-toolbar for window #0
+00:00:15.878076 GUI:  Map mini-toolbar for window #0 to screen 0 of 1
+00:00:15.878119 GUI:  Resize mini-toolbar for window #0 to 1366x768
+00:00:15.915499 GUI: UISession::sltAdditionsChange: GA state change event came, notifying listeners
+00:00:15.915638 GUI: UIMachineLogicFullscreen: Additions-state actual-change event, rebuild multi-screen layout
+00:00:15.915671 GUI: UIMultiScreenLayout::update: GUI/AutomountGuestScreens is disabled
+00:00:15.918304 GUI: 2D video acceleration is disabled
+00:00:15.918670 GUI: HID LEDs sync is enabled
+00:00:35.576067 GUI: UIMachineViewNormal::resendSizeHint: Restoring guest size-hint for screen 0 to 800x600
+00:00:35.830267 GUI: UIFrameBufferPrivate::performResize: Size=720x400, Using fallback buffer since no source bitmap is provided
+00:00:37.238920 GUI: UIMultiScreenLayout::update: GUI/AutomountGuestScreens is disabled
+00:00:37.319537 GUI: UIMachineViewFullscreen::adjustGuestScreenSize: Adjust guest-screen size if necessary.
+00:00:37.452700 GUI: UIFrameBufferPrivate::performResize: Size=720x400, Using fallback buffer since no source bitmap is provided
+00:00:37.468991 GUI: Show mini-toolbar for window #0
+00:00:37.477526 GUI: Adjust mini-toolbar for window #0
+00:00:37.477598 GUI:  Map mini-toolbar for window #0 to screen 0 of 1
+00:00:37.477618 GUI:  Resize mini-toolbar for window #0 to 1366x768
+00:00:38.642457 GUI: UIMachineViewNormal::resendSizeHint: Restoring guest size-hint for screen 0 to 800x600
+00:00:38.820107 GUI: UIFrameBufferPrivate::performResize: Size=720x400, Using fallback buffer since no source bitmap is provided
+00:00:48.738685 GUI: Request for close-action to save VM state.
+00:00:48.738770 GUI: Passing request to save VM state from machine-logic to UI session.
+00:00:48.866535 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:49.335111 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:49.972645 GUI: Passing request to close Runtime UI from machine-logic to UI session.
+00:00:50.408256 ERROR [COM]: aRC=E_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:00:50.429098 ERROR [COM]: aRC=E_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
