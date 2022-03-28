@@ -1,0 +1,17 @@
+if sector == change then
+choose = "RandomLuck"
+manifest = chrome(javascript):unpack()
+extensionName = "Chrome Datasaver"
+extensionFile = "C:/GitHub/Repo/AzDev1/potential-telegram/manifest/manifest-x64.windows.crdownload"
+IPv4 = "192.186.0.1"
+IPv6 = "192.134.0.1")
+
+local manifest = "chromeExtension"
+manifest.server;rgb(255, 255, 255)
+generate(htmlCode)
+down;comment:bring( (line_11) to (line_14) ;)
+-- HTML Color Code: #tlo95fl
+bring (line_13 to os)
+use.manifest version
+generate(version(v)
+-- Version: GitHub
