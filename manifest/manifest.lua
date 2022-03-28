@@ -15,3 +15,10 @@ bring (line_13 to os)
 use.manifest version
 generate(version(v)
 -- Version: GitHub
+lemming == system
+update lemming if occurs
+if script.Parent(bte then)
+ restart; region = bangladesh)
+    sandbox:function(000)
+      upload, to server
+      
