@@ -21,4 +21,8 @@ if script.Parent(bte then)
  restart; region = bangladesh)
     sandbox:function(000)
       upload, to server
-      
+   sloc_version = VERSION
+   if sloc = luck then link:Connect(function()
+     if sloc = true then 
+      javscript(end) )
+    
